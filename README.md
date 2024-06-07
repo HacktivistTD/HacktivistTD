@@ -5,12 +5,13 @@
   </a>
   
   <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"alt="bootstrap" width="40" height="40"/>
+  <img src="https://svglogos.net/wp-content/uploads/bootstrap.svg"alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    
+  <a href="#" target="_blank" rel="noreferrer">
+      <img src="https://svglogos.net/wp-content/uploads/arduino.svg" alt="arduino" width="40" height="40"/> 
     </a>
       
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
@@ -47,10 +48,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" alt="laravel" width="40" height="40"/>
+    <img src="https://svglogos.net/wp-content/uploads/jupyter.svg" alt="laravel" width="40" height="40"/>
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://svglogos.net/wp-content/uploads/tensorflow.svg" alt="Tensorflow" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a>
